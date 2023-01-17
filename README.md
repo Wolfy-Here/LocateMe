@@ -1,2 +1,4 @@
 # LocateMe
- An Android Application
+SOS Android Application
+SOS (which stands for Save Our Souls or Save Our Ships) has primarily been used as an International Morse code distress signal. It is commonly used in navigation by Sailors when under attack by Pirates or when they need help of some kind. But the signal is not limited to navigation and is used in a more general sense whenever a notification has to be sent about a situation that requires immediate attention. 
+LocateMe application is basically advanced emergency app that can rescue you and/or your loved ones if you and/or they find themselves in a life-threatening emergency situation and need immediate assistance. When some assistance is needed, you can actually switch on your phone and can call or message someone for help, But in a life-threatening emergency like attack, sexual assault, robbery, harassment, accident, fire, birth assistance, you won't have time, instead, you need some accessibility methods by which can help you reach out for help without actually operating the phone. LocateMe is that kind of Application.
